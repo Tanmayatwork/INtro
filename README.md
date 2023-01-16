@@ -5,4 +5,4 @@ learning some interesting languages
  like Python ,c,c++ 
  im want to be a Data scientist
  i also learning some visualising tools like power BI
-im always exited to work with new people 
+im always exited to work with group 13 people 
